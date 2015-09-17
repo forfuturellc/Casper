@@ -1601,6 +1601,17 @@ body:not(.post-template) .post-title {
 }
 
 
+.company-intro {
+    display: block;
+    text-align: center;
+}
+
+
+.company-intro .links a {
+    margin: 4px;
+}
+
+
 /* ==========================================================================
    11. Media Queries - Smaller than 900px
    ========================================================================== */
