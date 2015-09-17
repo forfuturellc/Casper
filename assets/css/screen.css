@@ -1574,7 +1574,7 @@ body:not(.post-template) .post-title {
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #BBC7CC;
+    color: #738877;
 }
 
 .site-footer a {
@@ -1605,6 +1605,7 @@ body:not(.post-template) .post-title {
     display: block;
     font-size: 1.6rem;
     text-align: center;
+    padding: 20px;
 }
 
 
