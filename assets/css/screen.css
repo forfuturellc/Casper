@@ -1603,6 +1603,7 @@ body:not(.post-template) .post-title {
 
 .company-intro {
     display: block;
+    font-size: 1.6rem;
     text-align: center;
 }
 
