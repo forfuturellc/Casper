@@ -711,6 +711,18 @@ body.nav-opened .nav {
     margin-right: 6px;
 }
 
+.subscribe {
+    padding: 20px;
+}
+
+.subscribe .main-label {
+    display: block;
+    font-size: 1.2rem;
+    text-align: center;
+    width: 100%;
+    color: #738877;
+}
+
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
@@ -1606,6 +1618,7 @@ body:not(.post-template) .post-title {
     font-size: 1.6rem;
     text-align: center;
     padding: 20px;
+    margin: 0;
 }
 
 
